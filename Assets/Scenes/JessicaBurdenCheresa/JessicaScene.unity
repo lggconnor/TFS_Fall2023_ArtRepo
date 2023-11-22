@@ -415,7 +415,7 @@ GameObject:
   - component: {fileID: 292915417}
   - component: {fileID: 292915416}
   m_Layer: 0
-  m_Name: Quad
+  m_Name: CoinConceptArt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1080,7 +1080,7 @@ GameObject:
   - component: {fileID: 1359929477}
   - component: {fileID: 1359929476}
   m_Layer: 0
-  m_Name: Quad (1)
+  m_Name: WordConceptArt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
